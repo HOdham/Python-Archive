@@ -1,0 +1,12 @@
+#create your content in this module only.
+
+
+def getMenuNumber(choices):
+  return None
+
+def getMenuCapLetters(choices):
+  return None
+
+def getMenuCustomLetters(choices):
+  return None
+#
